@@ -1,5 +1,5 @@
 # Chicken-Door
-Over the internet chicken door actuator
+Over-the-internet chicken door actuator
 
 This was designed to be used with a Adafruit Feather HUZZAH ESP8266 to enable the control of a chicken door.
 
