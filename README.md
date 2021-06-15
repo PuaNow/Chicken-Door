@@ -3,6 +3,8 @@ Over the internet chicken door actuator
 
 This was designed to be used with a Adafruit Feather HUZZAH ESP8266 to enable the control of a chicken door.
 
+I can control the door from any device by loading my dashboard, the interface has Open, Close, and Reset (Full retract). These correspond with Open as 1, Close as 2, Reset as 3 to simplify the commands.
+
 Since choosing a servo and designing a system, i found an inexpensive linear actuator from amazon would best serve my purpose.
 
 
@@ -23,6 +25,9 @@ Tools:
 
 Backend:
 - Adafruit IO (free)
+The backend you can build 
+
+
 
 Assembly time:
 - 30 minutes - 1 Hour
