@@ -21,5 +21,8 @@ Tools:
 - Screwdriver
 - mini screwdriver for FeatherWing
 
+Backend:
+- Adafruit IO (free)
+
 Assembly time:
 - 30 minutes - 1 Hour
