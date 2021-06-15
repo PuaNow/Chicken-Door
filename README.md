@@ -25,8 +25,7 @@ Tools:
 
 Backend:
 - Adafruit IO (free)
-The backend you can build 
-
+The backend I built using the Adafruit IO Servo tutorial: https://learn.adafruit.com/adafruit-io-basics-servo/adafruit-io-setup
 
 
 Assembly time:
