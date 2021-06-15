@@ -11,6 +11,7 @@ Parts:
 - Adafruit Feather HUZZAH ESP8266
 - 5v 1A USB power supply to power Feather HUZZAH
 - Adafruit Stepper + DC Motor FeatherWing
+- 12V DC 1000mA (1A) regulated switching power adapter
 - Female DC Power adapter - 2.1mm jack to screw terminal block to power Adafruit Stepper + DC Motor FeatherWing
 - 1 foot black wire
 - 1 foot red wire
