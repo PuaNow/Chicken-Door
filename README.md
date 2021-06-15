@@ -22,6 +22,7 @@ Tools:
 - Soldering Iron
 - Screwdriver
 - mini screwdriver for FeatherWing
+- Sharp stick for wandering raccoons
 
 Backend:
 - Adafruit IO (free)
