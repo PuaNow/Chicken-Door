@@ -3,11 +3,11 @@
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
 #define IO_USERNAME "PuaNow"
-#define IO_KEY "aio_IEOx75uOJZbyh2FqvtAxouplKhsA"
+#define IO_KEY "aio_here"
 
 
-#define WIFI_SSID "Farm"
-#define WIFI_PASS "cyanescens"
+#define WIFI_SSID "wifiname"
+#define WIFI_PASS "password"
 
 
 
